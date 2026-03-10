@@ -96,12 +96,9 @@ Databases and Data Engineering
 
 ---
 
-<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-
-<img src="https://github.com/Sanhindha/Sanhindha/blob/output/github-contribution-grid-snake.svg">
-
+  <img src="https://raw.githubusercontent.com/mkmconnects-byte/mkmconnects-byte/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
