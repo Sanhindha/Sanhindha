@@ -2,119 +2,130 @@
 <h3 align="center">BSc (Hons) Data Science with Artificial Intelligence Student</h3>
 
 <p align="center">
-🎓 Studying Data Science with Artificial Intelligence at Robert Gordon University  
-💡 Passionate about AI, Machine Learning, and Data Science
+🎓 Studying Data Science with Artificial Intelligence at Robert Gordon University <br>
+🤖 Passionate about Artificial Intelligence, Machine Learning, and Data Science
 </p>
 
 ---
 
-## 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
-- Student at **Robert Gordon University**
-- Learning **Artificial Intelligence & Data Science**
-- Interested in **Machine Learning, Data Analytics, and Big Data**
-- Building projects using **Python and data science tools**
-- Currently improving my **AI & ML skills**
-
----
-
-## 🧠 Currently Learning
-
-- Python for Data Science  
-- Machine Learning Algorithms  
-- Data Visualization  
-- Databases and Data Engineering  
+<p align="center">
+🎓 Student at Robert Gordon University <br>
+📊 Interested in Data Science, Machine Learning, and Big Data <br>
+💻 Building projects using Python and data science tools <br>
+🌱 Currently improving my AI and Machine Learning skills
+</p>
 
 ---
 
-## 💻 Tech Stack
+<h2 align="center">🧠 Currently Learning</h2>
 
-### Languages
-### Languages
+<p align="center">
+Python for Data Science <br>
+Machine Learning Algorithms <br>
+Data Visualization <br>
+Databases and Data Engineering
+</p>
+
+---
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<h3 align="center">Languages</h3>
 
 <p align="center">
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql">
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript">
 
 </p>
 
----
-
-### Libraries & Frameworks
+<h3 align="center">Libraries & Frameworks</h3>
 
 <p align="center">
 
-![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-orange?style=for-the-badge&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+<img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas">
+<img src="https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy">
+<img src="https://img.shields.io/badge/ScikitLearn-orange?style=for-the-badge&logo=scikitlearn">
+<img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow">
 
 </p>
 
----
-
-### Tools
+<h3 align="center">Tools</h3>
 
 <p align="center">
 
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
-![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter)
+<img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode">
+<img src="https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter">
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
 
-![Sanhindha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanhindha&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Sanhindha&show_icons=true&theme=tokyonight">
 
 </p>
 
 ---
 
-## 📈 Most Used Languages
+<h2 align="center">📈 Most Used Languages</h2>
 
 <p align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanhindha&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanhindha&layout=compact&theme=tokyonight">
 
 </p>
 
 ---
 
-## 📉 Contribution Graph
+<h2 align="center">📉 Contribution Graph</h2>
 
 <p align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanhindha&theme=tokyo-night)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanhindha&theme=tokyo-night">
 
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
 
-![Snake animation](https://github.com/Sanhindha/Sanhindha/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/Sanhindha/Sanhindha/blob/output/github-contribution-grid-snake.svg">
 
 </p>
 
 ---
 
-## 📂 Featured Projects
+<h2 align="center">📂 Featured Projects</h2>
 
-🔹 AI Mini Projects  
-🔹 Machine Learning Experiments  
-🔹 Data Analysis Projects  
-🔹 Python Automation Scripts  
+<p align="center">
+🔹 AI Mini Projects <br>
+🔹 Machine Learning Experiments <br>
+🔹 Data Analysis Projects <br>
+🔹 Python Automation Scripts
+</p>
 
 ---
 
-⭐ **Always learning and building in AI & Data Science**
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+LinkedIn: https://linkedin.com/in/YOURUSERNAME <br>
+Email: your@email.com
+</p>
+
+---
+
+<p align="center">
+⭐ Always learning and building in AI & Data Science
+</p>
