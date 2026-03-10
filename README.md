@@ -10,11 +10,11 @@
 
 ## 🚀 About Me
 
-- 🎓 Student at **Robert Gordon University**
-- 🤖 Learning **Artificial Intelligence & Data Science**
-- 📊 Interested in **Machine Learning, Data Analytics, and Big Data**
-- 💻 Building projects using **Python and data science tools**
-- 🌱 Currently improving my **AI & ML skills**
+- Student at **Robert Gordon University**
+- Learning **Artificial Intelligence & Data Science**
+- Interested in **Machine Learning, Data Analytics, and Big Data**
+- Building projects using **Python and data science tools**
+- Currently improving my **AI & ML skills**
 
 ---
 
@@ -30,7 +30,7 @@
 ## 💻 Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+<p align="center">![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
@@ -44,7 +44,7 @@
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
-![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter)
+![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter)</p>
 
 ---
 
@@ -78,13 +78,6 @@
 🔹 Machine Learning Experiments  
 🔹 Data Analysis Projects  
 🔹 Python Automation Scripts  
-
----
-
-## 🌐 Connect With Me
-
-LinkedIn: https://linkedin.com/in/YOURUSERNAME  
-Email: your@email.com  
 
 ---
 
