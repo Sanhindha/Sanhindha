@@ -2,8 +2,8 @@
 <h3 align="center">BSc (Hons) Data Science with Artificial Intelligence Student</h3>
 
 <p align="center">
-🎓 Studying Data Science with Artificial Intelligence at Robert Gordon University <br>
-🤖 Passionate about Artificial Intelligence, Machine Learning, and Data Science
+Studying Data Science with Artificial Intelligence at Robert Gordon University <br>
+Passionate about Artificial Intelligence, Machine Learning, and Data Science
 </p>
 
 ---
@@ -11,10 +11,10 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-🎓 Student at Robert Gordon University <br>
-📊 Interested in Data Science, Machine Learning, and Big Data <br>
-💻 Building projects using Python and data science tools <br>
-🌱 Currently improving my AI and Machine Learning skills
+Student at Robert Gordon University <br>
+Interested in Data Science, Machine Learning, and Big Data <br>
+Building projects using Python and data science tools <br>
+Currently improving my AI and Machine Learning skills
 </p>
 
 ---
@@ -117,14 +117,6 @@ Databases and Data Engineering
 
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
-
-<p align="center">
-LinkedIn: https://linkedin.com/in/YOURUSERNAME <br>
-Email: your@email.com
-</p>
-
----
 
 <p align="center">
 ⭐ Always learning and building in AI & Data Science
