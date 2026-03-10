@@ -98,7 +98,7 @@ Databases and Data Engineering
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mkmconnects-byte/mkmconnects-byte/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/Sanhindha/Sanhindha/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
