@@ -97,9 +97,7 @@ Databases and Data Engineering
 ---
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sanhindha/Sanhindha/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+![Snake animation](https://github.com/Sanhindha/Sanhindha_Snake/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
