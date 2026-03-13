@@ -76,9 +76,7 @@
 <h2 align="center">🏆 GitHub Achievements</h2>
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sanhindha&theme=tokyonight&row=1&column=6">
-
+<img src="https://github-profile-trophy.vercel.app/?username=Sanhindha&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6"/>
 </p>
 
 ---
