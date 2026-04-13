@@ -2,8 +2,9 @@
 <h3 align="center">BSc (Hons) Data Science with Artificial Intelligence Student</h3>
 
 <p align="center">
-Studying Data Science with Artificial Intelligence at Robert Gordon University <br>
-Passionate about Artificial Intelligence, Machine Learning, and Data Science
+🎓 Studying Data Science with Artificial Intelligence at <b>Robert Gordon University</b> <br>
+💡 Passionate about AI, Machine Learning & Data Science <br>
+🚀 Turning data into meaningful insights
 </p>
 
 ---
@@ -11,10 +12,10 @@ Passionate about Artificial Intelligence, Machine Learning, and Data Science
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-Student at Robert Gordon University <br>
-Interested in Data Science, Machine Learning, and Big Data <br>
-Building projects using Python and data science tools <br>
-Currently improving my AI and Machine Learning skills
+📍 Undergraduate at Robert Gordon University <br>
+📊 Strong interest in Data Science, Machine Learning & Big Data <br>
+⚙️ Building real-world projects using Python and modern tools <br>
+📈 Constantly improving my AI & ML skillset
 </p>
 
 ---
@@ -22,10 +23,10 @@ Currently improving my AI and Machine Learning skills
 <h2 align="center">🧠 Currently Learning</h2>
 
 <p align="center">
-Python for Data Science <br>
-Machine Learning Algorithms <br>
-Data Visualization <br>
-Databases and Data Engineering
+🔹 Advanced Python for Data Science <br>
+🔹 Machine Learning & Model Optimization <br>
+🔹 Data Visualization Techniques <br>
+🔹 Databases & Data Engineering Concepts
 </p>
 
 ---
@@ -36,9 +37,9 @@ Databases and Data Engineering
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python">
-<img src="https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql">
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
 </p>
 
@@ -46,10 +47,10 @@ Databases and Data Engineering
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas">
-<img src="https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy">
-<img src="https://img.shields.io/badge/ScikitLearn-orange?style=for-the-badge&logo=scikitlearn">
-<img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 
 </p>
 
@@ -57,10 +58,10 @@ Databases and Data Engineering
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-<img src="https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode">
-<img src="https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
 
 </p>
 
@@ -70,7 +71,7 @@ Databases and Data Engineering
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sanhindha&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=Sanhindha&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 
 </p>
 
@@ -80,7 +81,7 @@ Databases and Data Engineering
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanhindha&layout=compact&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanhindha&layout=compact&theme=tokyonight&cache_seconds=1800" />
 
 </p>
 
@@ -90,12 +91,11 @@ Databases and Data Engineering
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanhindha&theme=tokyo-night">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanhindha&theme=tokyo-night" />
 
 </p>
 
 ---
-
 
 ![Snake animation](https://github.com/Sanhindha/Sanhindha_Snake/blob/output/github-contribution-grid-snake-dark.svg)
 
@@ -104,17 +104,22 @@ Databases and Data Engineering
 <h2 align="center">📂 Featured Projects</h2>
 
 <p align="center">
-🔹 AI Mini Projects <br>
-🔹 Machine Learning Experiments <br>
-🔹 Data Analysis Projects <br>
-🔹 Python Automation Scripts
+🔹 AI Mini Projects – Small experiments exploring core AI concepts <br>
+🔹 Machine Learning Models – Classification, Regression & Clustering <br>
+🔹 Data Analysis Projects – Real-world datasets & insights <br>
+🔹 Python Automation – Scripts to simplify tasks & workflows
 </p>
 
 ---
 
+<h2 align="center">🌟 Vision</h2>
 
 <p align="center">
-⭐ Always learning and building in AI & Data Science
+To become a skilled Data Scientist and build intelligent systems that solve real-world problems.
 </p>
 
-this is my githib profilr code i gave this code to someone so that person and i have the same so make it more diffrent you know make my one the best 
+---
+
+<p align="center">
+⭐ <b>Always learning. Always building. Always improving.</b>
+</p>
