@@ -1,4 +1,3 @@
-Okay now
 <h1 align="center">Hi 👋, I'm Sanhindha</h1>
 <h3 align="center">BSc (Hons) Data Science with Artificial Intelligence Student</h3>
 
